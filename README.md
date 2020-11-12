@@ -4,7 +4,7 @@
 <h1 align="center">
  Avi Codes Theme for VS Code
 </h1>
-<h5 align="center">Created for you, by <a href="https://www.instagram.com/avi_codes">@avi_codes</a></h5>
+<h5 align="center">Created for you, by <a href="https://www.instagram.com/avi_codes">@avi_codes</a> | <a href="https://marketplace.visualstudio.com/items?itemName=AvinashM.Avi-Codes-theme"> Clicke here </a> to view it in VS Code marketplace.</h5>
 <p align="center">
   A minimal, mordern theme for VS Code</a>.
 </p>
