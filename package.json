@@ -1,0 +1,25 @@
+{
+    "name": "Avi-Codes-theme",
+    "displayName": "Avi Codes theme",
+    "description": "A mordern theme created for you, by me - Avinash Murugappan",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Avinash-Murugappan/Avi-Codes-Theme-VSCode"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Avi Codes Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Avi Codes Theme-color-theme.json"
+            }
+        ]
+    }
+}
