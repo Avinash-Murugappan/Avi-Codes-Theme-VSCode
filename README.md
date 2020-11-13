@@ -15,7 +15,6 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=AvinashM.Avi-Codes-theme">
     <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/AvinashM.Avi-Codes-theme.svg" />
   </a>
-  
   A minimal, mordern theme for VS Code</a>.
 </p>
 
